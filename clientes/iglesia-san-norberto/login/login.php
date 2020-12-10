@@ -54,7 +54,7 @@ if ($usuariosession) {
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="scroll active"><a href="../../../index.php#home">Inicio</a></li>
+                    <li class="scroll active"><a href="../../../index.php#home">Inicio de dos</a></li>
                     <li class="scroll"><a href="../../../index.php#services">Servicios</a></li>
                     <li class="scroll"><a href="../../../index.php#about-us">Sobre nosotros</a></li>
                     <li class="scroll"><a href="../../../index.php#portfolio">Portafolio</a></li>
